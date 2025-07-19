@@ -74,7 +74,7 @@ def get_top_500_solo():
         if not players:
             break
         
-        solo_players = [player for player in players if len(player.get('team', {}).get('members', [])) == 1]
+        solo_players = [player for player in players if len(player.get('team', {}).get('members', [])) <= 1]
         solo_data.extend(solo_players)
         
         print(f"Found {len(solo_players)} solo players on page {page}")

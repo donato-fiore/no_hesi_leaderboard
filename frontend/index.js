@@ -9,9 +9,17 @@ fetch('./data/top_500_solo.json')
         let rank = 1;
         data.forEach(player => {
             const row = document.createElement('tr');
+
+            var name;
+            if (player.team.members.length == 1) {
+                name = player.team.members[0].name;
+            } else {
+                name = player.personaname;
+            }
+
             row.innerHTML = `
                 <td>${rank}</td>
-                <td>${player.team.members[0].name}</td>
+                <td>${name}</td>
                 <td>${formatNumber(player.score)}</td>
                 <td>${player.combo}x</td>
                 <td style='text-transform: capitalize;'>${player.car_model}</td>
