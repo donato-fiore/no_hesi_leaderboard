@@ -59,10 +59,12 @@ function renderLeaderboard(data) {
     const tableBody = document.querySelector('.leaderboard tbody');
     tableBody.innerHTML = ''; // Clear existing rows if any
 
-    data.forEach((player, index) => {
+    data.players.forEach((player, index) => {
         const row = createLeaderboardRow(player, index + 1);
         tableBody.appendChild(row);
     });
+
+    document.getElementById('last-updated').textContent = new Date(data.last_updated).toLocaleString();
 }
 
 fetch('./data/top_500_solo.json')
