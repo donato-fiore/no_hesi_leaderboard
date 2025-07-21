@@ -28,7 +28,7 @@ def get_top_500_solo():
         solo_players = [
             player
             for player in players
-            if len(player.get("team", {}).get("members", [])) <= 1
+            if len(player.get("team", {}).get("members", [])) <= 1 and player.get('prox_combo', 0) == 1
         ]
         solo_data.extend(solo_players)
 
