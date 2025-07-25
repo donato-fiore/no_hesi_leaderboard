@@ -43,14 +43,18 @@ def get_top_500_solo():
 
 if __name__ == "__main__":
     try:
-        leaderboard_data = fetch_leaderboard()
+        leaderboard_data = fetch_leaderboard(page=1, page_size=500)
         top_500_solo = get_top_500_solo()
         last_updated = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
 
-        output = {"last_updated": last_updated, "players": top_500_solo}
+        solo_output = {"last_updated": last_updated, "players": top_500_solo}
 
-        with open("top_500_solo.json", "w+") as f:
-            json.dump(output, f, indent=4)
+        with open("frontend/data/top_500_solo.json", "w+") as f:
+            json.dump(solo_output, f, indent=4)
+
+        main_data = {"last_updated": last_updated, "players": leaderboard_data.get("players", [])}
+        with open("frontend/data/leaderboard.json", "w+") as f:
+            json.dump(main_data, f, indent=4)
 
     except requests.RequestException as e:
         print(f"An error occurred: {e}")
