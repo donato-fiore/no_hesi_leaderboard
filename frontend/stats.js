@@ -2,6 +2,19 @@ const cars = {};
 const inputs = {};
 const maps = {};
 const teamSizes = {};
+const topMapRuns = {};
+
+function formatNumber(num) {
+    return num.toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",");
+}
+
+function getPlayerName(player) {
+    const members = player.team?.members || [];
+    if (members.length > 1) {
+        return members.map(member => member.name).join(", ");
+    }
+    return members[0]?.name || player.personaname || 'Unknown';
+}
 
 function addCount(obj, key) {
     if (!key) return;
@@ -38,26 +51,48 @@ function sortAndFormat(obj) {
         }));
 }
 
-function createTableSection(title, data, formatter = name => name) {
+function createTableSection(title, data, formatter = name => name, headers = []) {
     const section = document.createElement("section");
     const heading = document.createElement("h2");
     heading.textContent = title;
     section.appendChild(heading);
 
     const table = document.createElement("table");
+    table.className = `${title.toLowerCase().replace(/\s+/g, '-')}-table`;
+
+    // Create table header
     const thead = document.createElement("thead");
-    thead.innerHTML = `<tr><th>Label</th><th>Count</th><th>%</th></tr>`;
+    const headerRow = document.createElement("tr");
+    headers.forEach(header => {
+        const th = document.createElement("th");
+        th.textContent = header;
+        headerRow.appendChild(th);
+    });
+    thead.appendChild(headerRow);
     table.appendChild(thead);
 
+    // Create table body
     const tbody = document.createElement("tbody");
-
-    data.forEach(({ name, count, percentage }) => {
+    data.forEach(rowData => {
         const row = document.createElement("tr");
-        row.innerHTML = `
-            <td>${formatter(name)}</td>
-            <td>${count}</td>
-            <td>${percentage}%</td>
-        `;
+
+        headers.forEach((header, index) => {
+            const td = document.createElement("td");
+
+            let key = Object.keys(rowData)[index];
+            let value = rowData[key];
+
+            // Apply formatter to the first column only
+            td.textContent = (index === 0) ? formatter(value) : value;
+
+            // If the header is literally '%' or ends with '%', add it
+            if (typeof value === 'string' && (header === "%" || header.endsWith("%"))) {
+                td.textContent += "%";
+            }
+
+            row.appendChild(td);
+        });
+
         tbody.appendChild(row);
     });
 
@@ -65,6 +100,7 @@ function createTableSection(title, data, formatter = name => name) {
     section.appendChild(table);
     return section;
 }
+
 
 async function loadStats() {
     const leftPane = document.getElementById("left-pane");
@@ -75,19 +111,53 @@ async function loadStats() {
         const data = await res.json();
         const players = data.players || [];
 
+        var i = 0;
         players.forEach(player => {
             addCount(cars, player.car_model);
             addCount(inputs, player.input);
             addCount(maps, player.map);
             const teamSize = getTeamSize(player);
             addCount(teamSizes, teamSize);
+
+            if (topMapRuns[player.map]) {
+                if (player.score > topMapRuns[player.map].score) {
+                    topMapRuns[player.map] = {
+                        place: 1,
+                        score: player.score,
+                        player: getPlayerName(player)
+                    };
+                } else if (player.score === topMapRuns[player.map].score) {
+                    topMapRuns[player.map].place++;
+                }
+            } else {
+                topMapRuns[player.map] = {
+                    place: i + 1,
+                    score: player.score,
+                    player: getPlayerName(player)
+                };
+            }
+
+            i++;
         });
+        const defaultHeaders = ["Label", "Count", "%"];
 
-        leftPane.appendChild(createTableSection("Cars", sortAndFormat(cars), name => name?.toUpperCase() || "Unknown"));
+        leftPane.appendChild(createTableSection("Cars", sortAndFormat(cars), name => name?.toUpperCase() || "Unknown", defaultHeaders));
 
-        rightPane.appendChild(createTableSection("Inputs", sortAndFormat(inputs), name => name?.toUpperCase() || "Unknown"));
-        rightPane.appendChild(createTableSection("Maps", sortAndFormat(maps), name => name || "Unknown"));
-        rightPane.appendChild(createTableSection("Team Sizes", sortAndFormat(teamSizes), size => sizeString(parseInt(size))));
+        rightPane.appendChild(createTableSection("Inputs", sortAndFormat(inputs), name => name?.toUpperCase() || "Unknown", defaultHeaders));
+        rightPane.appendChild(createTableSection("Maps", sortAndFormat(maps), name => name || "Unknown", defaultHeaders));
+        rightPane.appendChild(createTableSection("Team Sizes", sortAndFormat(teamSizes), size => sizeString(parseInt(size)), defaultHeaders));
+
+        const topRunsFormatted = Object.entries(topMapRuns)
+            .sort((a, b) => b[1].score - a[1].score)
+            .map(([map, data]) => ({
+                name: map,
+                place: data.place,
+                count: formatNumber(data.score),
+                percentage: data.player
+            }));
+
+        const topRunHeaders = ["Map", "Place", "Score", "Player(s)"];
+        rightPane.appendChild(createTableSection("Top Run Per Map", topRunsFormatted, name => name || "Unknown", topRunHeaders));
 
 
         updateLastUpdated(data?.last_updated);
