@@ -1,50 +1,24 @@
 {
-    "last_updated": "2025-07-25 12:14:20",
+    "last_updated": "2025-08-03 19:34:27",
     "players": [
         {
-            "score": 54928580672,
-            "steamid": "76561199200289859",
-            "input": "Keyboard",
-            "combo": "73220.0",
-            "avg_speed": "219",
-            "run_time": "00:25:00",
-            "run_distance": "91.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "45.88.230.80:13354",
-            "map": "No Hesi 110",
-            "lives_left": 2,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1570,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/7467a00ca71de9348930d883959958a5b7e40191.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/7467a00ca71de9348930d883959958a5b7e40191_full.jpg",
-            "personaname": "ReTr0_BL4DE",
-            "label": "No Hesi",
-            "website_name": "retroblade",
-            "server_title": null
-        },
-        {
-            "score": 48427067187,
+            "score": 58112164012,
             "steamid": "76561197990072679",
             "input": "Steering Wheel",
-            "combo": "68775.0",
-            "avg_speed": "213",
-            "run_time": "00:25:00",
-            "run_distance": "89.0",
-            "car_model": "subaru wrx sti gd kz",
+            "combo": "76023.0",
+            "avg_speed": "212",
+            "run_time": "00:24:55",
+            "run_distance": "88.0",
+            "car_model": "mazda rx7 fd",
             "server": "103.73.65.155:13381",
             "map": "No Hesi 110",
-            "lives_left": 1,
+            "lives_left": 0,
             "team": {
                 "members": []
             },
             "prox_time": 0,
             "prox_combo": 1,
-            "cars_passed": 1585,
+            "cars_passed": 1593,
             "traffic_type": null,
             "avatar": "https://avatars.steamstatic.com/00ae4c130cfd1ea8e4abf0737b7f9d815a120f2a.jpg",
             "avatarfull": "https://avatars.steamstatic.com/00ae4c130cfd1ea8e4abf0737b7f9d815a120f2a_full.jpg",
@@ -132,6 +106,32 @@
             "server_title": "Heavy Traffic I German Cars 110"
         },
         {
+            "score": 46411934791,
+            "steamid": "76561199309263507",
+            "input": "Steering Wheel",
+            "combo": "68343.0",
+            "avg_speed": "215",
+            "run_time": "00:25:00",
+            "run_distance": "90.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.229.84:13348",
+            "map": "No Hesi 110",
+            "lives_left": 1,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1446,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/7589ba859c4f70ec7963afe1eb0fe63f49394b3c.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/7589ba859c4f70ec7963afe1eb0fe63f49394b3c_full.jpg",
+            "personaname": "WeebAlert",
+            "label": "No Hesi",
+            "website_name": "weebalert",
+            "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
             "score": 46035258191,
             "steamid": "76561198399055766",
             "input": "Steering Wheel",
@@ -158,23 +158,23 @@
             "server_title": "110 I Certified"
         },
         {
-            "score": 44815638445,
+            "score": 45976055688,
             "steamid": "76561199144869584",
             "input": "Steering Wheel",
-            "combo": "66177.0",
-            "avg_speed": "222",
-            "run_time": "00:23:41",
-            "run_distance": "87.0",
+            "combo": "67360.0",
+            "avg_speed": "215",
+            "run_time": "00:25:00",
+            "run_distance": "90.0",
             "car_model": "subaru wrx sti gd kz",
             "server": "45.88.230.80:13052",
             "map": "No Hesi 110",
-            "lives_left": 0,
+            "lives_left": 1,
             "team": {
                 "members": []
             },
             "prox_time": 0,
             "prox_combo": 1,
-            "cars_passed": 1420,
+            "cars_passed": 1441,
             "traffic_type": "None",
             "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
             "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
@@ -345,6 +345,58 @@
             "label": "No Hesi",
             "website_name": "prainzy",
             "server_title": "110 I Certified"
+        },
+        {
+            "score": 39118500228,
+            "steamid": "76561199013585633",
+            "input": "Controller",
+            "combo": "62845.0",
+            "avg_speed": "214",
+            "run_time": "00:23:46",
+            "run_distance": "85.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.229.84:13317",
+            "map": "No Hesi 110",
+            "lives_left": 0,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1456,
+            "traffic_type": null,
+            "avatar": "https://avatars.steamstatic.com/cbb4a8f6a8b09abbfb42601ccb9a5f5c81014027.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/cbb4a8f6a8b09abbfb42601ccb9a5f5c81014027_full.jpg",
+            "personaname": "sir. HoodieGuy\u00ae",
+            "label": "No Hesi",
+            "website_name": "sirhoodieguy",
+            "server_title": null
+        },
+        {
+            "score": 37897647186,
+            "steamid": "76561198863715819",
+            "input": "Steering Wheel",
+            "combo": "61042.0",
+            "avg_speed": "208",
+            "run_time": "00:25:00",
+            "run_distance": "87.0",
+            "car_model": "mazda rx7 fd",
+            "server": "45.88.230.80:13356",
+            "map": "No Hesi 110",
+            "lives_left": 2,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1702,
+            "traffic_type": null,
+            "avatar": "https://avatars.steamstatic.com/20cdeb6bd4d6af5f28816ea78508d54c61852a9f.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/20cdeb6bd4d6af5f28816ea78508d54c61852a9f_full.jpg",
+            "personaname": "raiden",
+            "label": "No Hesi",
+            "website_name": "raideyn",
+            "server_title": null
         },
         {
             "score": 37460686344,
@@ -647,6 +699,58 @@
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
+            "score": 34287683271,
+            "steamid": "76561198106824827",
+            "input": "Steering Wheel",
+            "combo": "57564.0",
+            "avg_speed": "205",
+            "run_time": "00:25:00",
+            "run_distance": "85.0",
+            "car_model": "toyota gr yaris",
+            "server": "45.88.230.80:13052",
+            "map": "No Hesi 110",
+            "lives_left": 3,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1469,
+            "traffic_type": "None",
+            "avatar": "https://avatars.steamstatic.com/543bb32f9249e6738288c0d3ac6987ee25983c41.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/543bb32f9249e6738288c0d3ac6987ee25983c41_full.jpg",
+            "personaname": "\u2605  K\u039bI  \u2605",
+            "label": "No Hesi",
+            "website_name": "kaixd",
+            "server_title": "110 I Certified"
+        },
+        {
+            "score": 34162955938,
+            "steamid": "76561199487807080",
+            "input": "Steering Wheel",
+            "combo": "59956.0",
+            "avg_speed": "209",
+            "run_time": "00:25:00",
+            "run_distance": "87.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.230.80:13052",
+            "map": "No Hesi 110",
+            "lives_left": 1,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1548,
+            "traffic_type": "None",
+            "avatar": "https://avatars.steamstatic.com/948c959e48446f095d3da4a00551483a47f11ac1.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/948c959e48446f095d3da4a00551483a47f11ac1_full.jpg",
+            "personaname": "Zero",
+            "label": "No Hesi",
+            "website_name": "zeroo",
+            "server_title": "110 I Certified"
+        },
+        {
             "score": 33835713081,
             "steamid": "76561199790358968",
             "input": "Controller",
@@ -732,39 +836,6 @@
             "server_title": null
         },
         {
-            "score": 33042384506,
-            "steamid": "76561199309263507",
-            "input": "Steering Wheel",
-            "combo": "56587.0",
-            "avg_speed": "207",
-            "run_time": "00:25:00",
-            "run_distance": "86.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "45.88.229.84:13317",
-            "map": "No Hesi 110",
-            "lives_left": 2,
-            "team": {
-                "members": [
-                    {
-                        "name": "weebalert5",
-                        "steamId": "76561199309263507",
-                        "website_name": "weebalert",
-                        "avatar_url": "https://cdn.discordapp.com/avatars/981305075353911327/59b3ff2330b8caad615945141fd5add1"
-                    }
-                ]
-            },
-            "prox_time": 1498,
-            "prox_combo": 1,
-            "cars_passed": 1310,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/7589ba859c4f70ec7963afe1eb0fe63f49394b3c.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/7589ba859c4f70ec7963afe1eb0fe63f49394b3c_full.jpg",
-            "personaname": "WeebAlert",
-            "label": "No Hesi",
-            "website_name": "weebalert",
-            "server_title": null
-        },
-        {
             "score": 32541499003,
             "steamid": "76561198886409415",
             "input": "Steering Wheel",
@@ -841,6 +912,39 @@
             "label": "No Hesi",
             "website_name": "bayareagoat415",
             "server_title": null
+        },
+        {
+            "score": 31688007212,
+            "steamid": "76561198807362322",
+            "input": "Steering Wheel",
+            "combo": "55391.0",
+            "avg_speed": "212",
+            "run_time": "00:25:00",
+            "run_distance": "88.0",
+            "car_model": "mazda rx7 fd",
+            "server": "45.88.229.84:13348",
+            "map": "No Hesi 110",
+            "lives_left": 2,
+            "team": {
+                "members": [
+                    {
+                        "steamId": "76561198807362322",
+                        "name": "Echotontree",
+                        "website_name": "echotontree",
+                        "avatar_url": "https://cdn.discordapp.com/avatars/500053067325112320/9435b936acb322b3c168934ba0b3a72e"
+                    }
+                ]
+            },
+            "prox_time": 1498,
+            "prox_combo": 1,
+            "cars_passed": 1374,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+            "personaname": "Echotontree",
+            "label": "No Hesi",
+            "website_name": "echotontree",
+            "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
             "score": 31656745989,
@@ -999,32 +1103,6 @@
             "server_title": null
         },
         {
-            "score": 30929879921,
-            "steamid": "76561198106824827",
-            "input": "Steering Wheel",
-            "combo": "54747.0",
-            "avg_speed": "208",
-            "run_time": "00:25:00",
-            "run_distance": "87.0",
-            "car_model": "toyota gr yaris",
-            "server": "45.88.229.84:13317",
-            "map": "No Hesi 110",
-            "lives_left": 2,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1446,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/543bb32f9249e6738288c0d3ac6987ee25983c41.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/543bb32f9249e6738288c0d3ac6987ee25983c41_full.jpg",
-            "personaname": "\u2605  K\u039bI  \u2605",
-            "label": "No Hesi",
-            "website_name": "kaixd",
-            "server_title": null
-        },
-        {
             "score": 30897419342,
             "steamid": "76561198257293574",
             "input": "Steering Wheel",
@@ -1101,6 +1179,32 @@
             "label": "No Hesi",
             "website_name": "manlikeizzy",
             "server_title": "110 I Certified"
+        },
+        {
+            "score": 30399739445,
+            "steamid": "76561199059248926",
+            "input": "Keyboard",
+            "combo": "54672.0",
+            "avg_speed": "199",
+            "run_time": "00:25:00",
+            "run_distance": "83.0",
+            "car_model": "toyota supra mk4",
+            "server": "45.88.230.80:13356",
+            "map": "No Hesi 110",
+            "lives_left": 1,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1409,
+            "traffic_type": null,
+            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+            "personaname": "pulkitmalikmzn",
+            "label": "No Hesi",
+            "website_name": "krakenvelo",
+            "server_title": null
         },
         {
             "score": 30360557864,
@@ -1481,32 +1585,6 @@
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
-            "score": 28968221367,
-            "steamid": "76561199059248926",
-            "input": "Keyboard",
-            "combo": "53915.0",
-            "avg_speed": "197",
-            "run_time": "00:25:00",
-            "run_distance": "82.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "45.88.230.80:13354",
-            "map": "No Hesi 110",
-            "lives_left": 1,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1284,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
-            "personaname": "pulkitmalikmzn",
-            "label": "No Hesi",
-            "website_name": "krakenvelo",
-            "server_title": null
-        },
-        {
             "score": 28901465124,
             "steamid": "76561199470458509",
             "input": "Steering Wheel",
@@ -1623,32 +1701,6 @@
             "label": "No Hesi",
             "website_name": "matttkay",
             "server_title": "Heavy Traffic I JDM Cars 110"
-        },
-        {
-            "score": 28544413890,
-            "steamid": "76561198807362322",
-            "input": "Steering Wheel",
-            "combo": "52819.0",
-            "avg_speed": "208",
-            "run_time": "00:25:00",
-            "run_distance": "87.0",
-            "car_model": "bmw m4 g82 adro chris",
-            "server": "45.88.229.84:13317",
-            "map": "No Hesi 110",
-            "lives_left": 1,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1511,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
-            "personaname": "Echotontree",
-            "label": "No Hesi",
-            "website_name": "echotontree",
-            "server_title": null
         },
         {
             "score": 28506924231,
@@ -1989,30 +2041,37 @@
             "server_title": null
         },
         {
-            "score": 27202119068,
-            "steamid": "76561199487807080",
-            "input": "Steering Wheel",
-            "combo": "54009.0",
-            "avg_speed": "204",
+            "score": 27246430864,
+            "steamid": "76561199845753597",
+            "input": "Controller",
+            "combo": "51299.0",
+            "avg_speed": "201",
             "run_time": "00:25:00",
-            "run_distance": "85.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "205.178.182.11:13317",
+            "run_distance": "84.0",
+            "car_model": "mazda rx7 fd",
+            "server": "45.88.230.80:13352",
             "map": "No Hesi 110",
-            "lives_left": 1,
+            "lives_left": 3,
             "team": {
-                "members": []
+                "members": [
+                    {
+                        "name": ".",
+                        "steamId": "76561199845753597",
+                        "website_name": "keepitup",
+                        "avatar_url": "https://nohesi-bucket.s3.us-east-1.amazonaws.com/92899c87-3bdc-4e1e-9522-004683962b90/avatar"
+                    }
+                ]
             },
-            "prox_time": 0,
+            "prox_time": 1498,
             "prox_combo": 1,
-            "cars_passed": 1447,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/948c959e48446f095d3da4a00551483a47f11ac1.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/948c959e48446f095d3da4a00551483a47f11ac1_full.jpg",
-            "personaname": "Zero",
+            "cars_passed": 1326,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/21e8cc6e7c8fca97fea116e0fcc0165116e8eea3.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/21e8cc6e7c8fca97fea116e0fcc0165116e8eea3_full.jpg",
+            "personaname": "ScorDokhtar",
             "label": "No Hesi",
-            "website_name": "zeroo",
-            "server_title": null
+            "website_name": "keepitup",
+            "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
             "score": 27129076799,
@@ -2074,6 +2133,32 @@
             "server_title": null
         },
         {
+            "score": 26911093613,
+            "steamid": "76561198261434648",
+            "input": "Steering Wheel",
+            "combo": "50909.0",
+            "avg_speed": "212",
+            "run_time": "00:25:00",
+            "run_distance": "88.0",
+            "car_model": "velocity one s",
+            "server": "45.88.229.84:13359",
+            "map": "No Hesi 110",
+            "lives_left": 2,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1568,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/ca4b9a0295e055b7b7765208e400e61587dd3bbe.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/ca4b9a0295e055b7b7765208e400e61587dd3bbe_full.jpg",
+            "personaname": "plunger power",
+            "label": "No Hesi",
+            "website_name": "dizzyracer",
+            "server_title": "Heavy Traffic I Exotic Cars 110"
+        },
+        {
             "score": 26780693031,
             "steamid": "76561199255837844",
             "input": "Steering Wheel",
@@ -2097,6 +2182,39 @@
             "personaname": "Leo (hqd)",
             "label": "No Hesi",
             "website_name": "hqdalt",
+            "server_title": "110 I Certified"
+        },
+        {
+            "score": 26778123780,
+            "steamid": "76561198095239399",
+            "input": "Steering Wheel",
+            "combo": "50875.0",
+            "avg_speed": "208",
+            "run_time": "00:25:00",
+            "run_distance": "87.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.230.80:13052",
+            "map": "No Hesi 110",
+            "lives_left": 3,
+            "team": {
+                "members": [
+                    {
+                        "name": "Yenz \u51b0\u51b7",
+                        "steamId": "76561198095239399",
+                        "website_name": "krowyen",
+                        "avatar_url": "https://cdn.discordapp.com/avatars/373974287238823956/c27b55a91ecdb5af73cedccc4dac3e64"
+                    }
+                ]
+            },
+            "prox_time": 1498,
+            "prox_combo": 1,
+            "cars_passed": 1307,
+            "traffic_type": "None",
+            "avatar": "https://avatars.steamstatic.com/5566df32b6d88fa466ea2936ca1e0a47caae853c.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/5566df32b6d88fa466ea2936ca1e0a47caae853c_full.jpg",
+            "personaname": "Yenz \u51b0\u51b7",
+            "label": "No Hesi",
+            "website_name": "krowyen",
             "server_title": "110 I Certified"
         },
         {
@@ -2256,6 +2374,39 @@
             "server_title": null
         },
         {
+            "score": 26423416666,
+            "steamid": "76561198329691265",
+            "input": "Steering Wheel",
+            "combo": "54995.0",
+            "avg_speed": "214",
+            "run_time": "00:25:00",
+            "run_distance": "89.0",
+            "car_model": "mazda rx7 fd",
+            "server": "103.73.65.155:13338",
+            "map": "No Hesi 110",
+            "lives_left": 1,
+            "team": {
+                "members": [
+                    {
+                        "name": "Koi",
+                        "steamId": "76561198329691265",
+                        "website_name": "yoboikoi",
+                        "avatar_url": "https://cdn.discordapp.com/avatars/269216137810542593/a_08299b93cc8d2d76709b9234ca477a2d"
+                    }
+                ]
+            },
+            "prox_time": 1498,
+            "prox_combo": 1,
+            "cars_passed": 1378,
+            "traffic_type": null,
+            "avatar": "https://avatars.steamstatic.com/f05078aef280b9317cafb9c8c69accaf68b28da3.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/f05078aef280b9317cafb9c8c69accaf68b28da3_full.jpg",
+            "personaname": "Koi",
+            "label": "No Hesi",
+            "website_name": "yoboikoi",
+            "server_title": null
+        },
+        {
             "score": 26369624699,
             "steamid": "76561199232560878",
             "input": "Controller",
@@ -2331,72 +2482,6 @@
             "personaname": "***********.elton",
             "label": "No Hesi",
             "website_name": "whitelinekoth",
-            "server_title": null
-        },
-        {
-            "score": 26060883195,
-            "steamid": "76561198261434648",
-            "input": "Steering Wheel",
-            "combo": "52303.0",
-            "avg_speed": "210",
-            "run_time": "00:25:00",
-            "run_distance": "87.0",
-            "car_model": "velocity one s",
-            "server": "45.88.229.84:13359",
-            "map": "No Hesi 110",
-            "lives_left": 1,
-            "team": {
-                "members": [
-                    {
-                        "steamId": "76561198261434648",
-                        "name": "izzyfizzy8406",
-                        "website_name": "dizzyracer",
-                        "avatar_url": "https://avatars.steamstatic.com/ca4b9a0295e055b7b7765208e400e61587dd3bbe.jpg"
-                    }
-                ]
-            },
-            "prox_time": 1499,
-            "prox_combo": 1,
-            "cars_passed": 1497,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/ca4b9a0295e055b7b7765208e400e61587dd3bbe.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/ca4b9a0295e055b7b7765208e400e61587dd3bbe_full.jpg",
-            "personaname": "plunger power",
-            "label": "No Hesi",
-            "website_name": "dizzyracer",
-            "server_title": "Heavy Traffic I Exotic Cars 110"
-        },
-        {
-            "score": 26027249877,
-            "steamid": "76561199208424092",
-            "input": "Keyboard",
-            "combo": "49811.0",
-            "avg_speed": "291",
-            "run_time": "00:25:00",
-            "run_distance": "121.0",
-            "car_model": "porsche 992 gt3 adro",
-            "server": "45.88.230.80:13073",
-            "map": "No Hesi 415",
-            "lives_left": 3,
-            "team": {
-                "members": [
-                    {
-                        "steamId": "76561199208424092",
-                        "name": "mcmblx",
-                        "website_name": "mcmblx",
-                        "avatar_url": "https://cdn.discordapp.com/avatars/696396464087367710/ab6d1200d9dec62a35bc5520b5ae74c7"
-                    }
-                ]
-            },
-            "prox_time": 1498,
-            "prox_combo": 1,
-            "cars_passed": 2094,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/5290c36e423ba419778865485456dee1c37c2095.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/5290c36e423ba419778865485456dee1c37c2095_full.jpg",
-            "personaname": "MC-MBLX",
-            "label": "No Hesi",
-            "website_name": "mcmblx",
             "server_title": null
         },
         {
@@ -2606,39 +2691,6 @@
             "label": "No Hesi",
             "website_name": "shady_03",
             "server_title": null
-        },
-        {
-            "score": 25473347420,
-            "steamid": "76561198329691265",
-            "input": "Steering Wheel",
-            "combo": "49465.0",
-            "avg_speed": "207",
-            "run_time": "00:25:00",
-            "run_distance": "86.0",
-            "car_model": "mazda rx7 fd",
-            "server": "45.88.229.84:13349",
-            "map": "No Hesi 110",
-            "lives_left": 2,
-            "team": {
-                "members": [
-                    {
-                        "name": "yoboikoi",
-                        "steamId": "76561198329691265",
-                        "website_name": "yoboikoi",
-                        "avatar_url": "https://cdn.discordapp.com/avatars/269216137810542593/a_08299b93cc8d2d76709b9234ca477a2d"
-                    }
-                ]
-            },
-            "prox_time": 1498,
-            "prox_combo": 1,
-            "cars_passed": 1354,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/f05078aef280b9317cafb9c8c69accaf68b28da3.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/f05078aef280b9317cafb9c8c69accaf68b28da3_full.jpg",
-            "personaname": "Koi",
-            "label": "No Hesi",
-            "website_name": "yoboikoi",
-            "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
             "score": 25469099338,
@@ -3012,6 +3064,39 @@
             "server_title": null
         },
         {
+            "score": 24601718867,
+            "steamid": "76561199542864074",
+            "input": "Steering Wheel",
+            "combo": "48781.0",
+            "avg_speed": "209",
+            "run_time": "00:25:00",
+            "run_distance": "87.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.229.84:13317",
+            "map": "No Hesi 110",
+            "lives_left": 2,
+            "team": {
+                "members": [
+                    {
+                        "name": "FpCyphs",
+                        "steamId": "76561199542864074",
+                        "website_name": "pawel420",
+                        "avatar_url": "https://avatars.steamstatic.com/90281bcb08a9d28ef4c343c5f6b8b75f093e4a9b.jpg"
+                    }
+                ]
+            },
+            "prox_time": 1498,
+            "prox_combo": 1,
+            "cars_passed": 1329,
+            "traffic_type": null,
+            "avatar": "https://avatars.steamstatic.com/90281bcb08a9d28ef4c343c5f6b8b75f093e4a9b.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/90281bcb08a9d28ef4c343c5f6b8b75f093e4a9b_full.jpg",
+            "personaname": "mkpawel60",
+            "label": "No Hesi",
+            "website_name": "pawel420",
+            "server_title": null
+        },
+        {
             "score": 24598836229,
             "steamid": "76561199006955344",
             "input": "Steering Wheel",
@@ -3153,32 +3238,6 @@
             "personaname": "|F&C| Cyclop4084",
             "label": "No Hesi",
             "website_name": "cyclop4084",
-            "server_title": "110 I Certified"
-        },
-        {
-            "score": 24250841270,
-            "steamid": "76561198095239399",
-            "input": "Steering Wheel",
-            "combo": "49098.0",
-            "avg_speed": "213",
-            "run_time": "00:25:00",
-            "run_distance": "89.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "45.88.230.80:13052",
-            "map": "No Hesi 110",
-            "lives_left": 2,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1325,
-            "traffic_type": "None",
-            "avatar": "https://avatars.steamstatic.com/5566df32b6d88fa466ea2936ca1e0a47caae853c.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/5566df32b6d88fa466ea2936ca1e0a47caae853c_full.jpg",
-            "personaname": "Yenz \u51b0\u51b7",
-            "label": "No Hesi",
-            "website_name": "krowyen",
             "server_title": "110 I Certified"
         },
         {
@@ -3378,32 +3437,6 @@
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
-            "score": 23613192726,
-            "steamid": "76561198863715819",
-            "input": "Steering Wheel",
-            "combo": "50576.0",
-            "avg_speed": "205",
-            "run_time": "00:25:00",
-            "run_distance": "86.0",
-            "car_model": "toyota gr yaris",
-            "server": "45.88.229.84:13317",
-            "map": "No Hesi 110",
-            "lives_left": 1,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1572,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/309afcb17832dd1bcdd6d007ec87d56087a4c620.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/309afcb17832dd1bcdd6d007ec87d56087a4c620_full.jpg",
-            "personaname": "raiden",
-            "label": "No Hesi",
-            "website_name": "raideyn",
-            "server_title": null
-        },
-        {
             "score": 23415091035,
             "steamid": "76561198150356345",
             "input": "Steering Wheel",
@@ -3512,32 +3545,6 @@
             "personaname": "muppetlol",
             "label": "No Hesi",
             "website_name": "mxppet",
-            "server_title": "Heavy Traffic I JDM Cars 110"
-        },
-        {
-            "score": 23253774267,
-            "steamid": "76561199845753597",
-            "input": "Controller",
-            "combo": "48210.0",
-            "avg_speed": "204",
-            "run_time": "00:24:54",
-            "run_distance": "85.0",
-            "car_model": "mazda rx7 fd",
-            "server": "45.88.230.80:13352",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1299,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/21e8cc6e7c8fca97fea116e0fcc0165116e8eea3.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/21e8cc6e7c8fca97fea116e0fcc0165116e8eea3_full.jpg",
-            "personaname": "ScorDokhtar",
-            "label": "No Hesi",
-            "website_name": "keepitup",
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
@@ -3905,6 +3912,32 @@
             "server_title": null
         },
         {
+            "score": 22337288017,
+            "steamid": "76561199875928547",
+            "input": "Controller",
+            "combo": "46573.0",
+            "avg_speed": "213",
+            "run_time": "00:25:00",
+            "run_distance": "89.0",
+            "car_model": "toyota gr86 adrowide",
+            "server": "45.88.229.84:13348",
+            "map": "No Hesi 110",
+            "lives_left": 1,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1464,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/027fd403f5df5ffaa773fd21552c3fef17b38ad2.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/027fd403f5df5ffaa773fd21552c3fef17b38ad2_full.jpg",
+            "personaname": "MegWalto",
+            "label": "No Hesi",
+            "website_name": "rooooosssiii",
+            "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
             "score": 22323606793,
             "steamid": "76561199830439699",
             "input": "Steering Wheel",
@@ -3955,39 +3988,6 @@
             "label": "No Hesi",
             "website_name": "i10jacb",
             "server_title": null
-        },
-        {
-            "score": 22287704788,
-            "steamid": "76561198261697870",
-            "input": "Controller",
-            "combo": "49465.0",
-            "avg_speed": "216",
-            "run_time": "00:24:50",
-            "run_distance": "89.0",
-            "car_model": "mazda rx7 fd",
-            "server": "45.88.229.84:13349",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": [
-                    {
-                        "name": "ezt",
-                        "steamId": "76561198261697870",
-                        "website_name": "ezt999",
-                        "avatar_url": "https://nohesi-bucket.s3.us-east-1.amazonaws.com/8b0e84f3-60e9-45cd-b217-49ac7bae7ade/avatar"
-                    }
-                ]
-            },
-            "prox_time": 1489,
-            "prox_combo": 1,
-            "cars_passed": 1178,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/91e8ec6004a70e7e64ee5aa29e1deee6418a9a76.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/91e8ec6004a70e7e64ee5aa29e1deee6418a9a76_full.jpg",
-            "personaname": "ezt999",
-            "label": "No Hesi",
-            "website_name": "ezt999",
-            "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
             "score": 22217570608,
@@ -4323,6 +4323,32 @@
             "server_title": null
         },
         {
+            "score": 21511426812,
+            "steamid": "76561199224537143",
+            "input": "Steering Wheel",
+            "combo": "45622.0",
+            "avg_speed": "206",
+            "run_time": "00:22:53",
+            "run_distance": "79.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.230.80:13352",
+            "map": "No Hesi 110",
+            "lives_left": 0,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1271,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/6914e115bd7e4df5f59f5ef27d7330964a244e19.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/6914e115bd7e4df5f59f5ef27d7330964a244e19_full.jpg",
+            "personaname": "Senyura",
+            "label": "No Hesi",
+            "website_name": "resmear",
+            "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
             "score": 21480572282,
             "steamid": "76561198100934310",
             "input": "Steering Wheel",
@@ -4373,6 +4399,32 @@
             "label": "No Hesi",
             "website_name": "roshii",
             "server_title": null
+        },
+        {
+            "score": 21285644095,
+            "steamid": "76561199042505817",
+            "input": "Steering Wheel",
+            "combo": "45251.0",
+            "avg_speed": "204",
+            "run_time": "00:25:00",
+            "run_distance": "85.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.230.80:13052",
+            "map": "No Hesi 110",
+            "lives_left": 2,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1397,
+            "traffic_type": "None",
+            "avatar": "https://avatars.steamstatic.com/a7b9015a268f8274f0bf59f495de9efe5e46ff73.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/a7b9015a268f8274f0bf59f495de9efe5e46ff73_full.jpg",
+            "personaname": "Bentlegz",
+            "label": "No Hesi",
+            "website_name": "bentlegzz",
+            "server_title": "110 I Certified"
         },
         {
             "score": 21251459040,
@@ -4711,6 +4763,32 @@
             "label": "No Hesi",
             "website_name": "yc_redd",
             "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
+            "score": 20503958124,
+            "steamid": "76561198154864425",
+            "input": "Steering Wheel",
+            "combo": "44485.0",
+            "avg_speed": "203",
+            "run_time": "00:25:00",
+            "run_distance": "84.0",
+            "car_model": "bmw m4 g82 adro chris",
+            "server": "45.88.230.80:13052",
+            "map": "No Hesi 110",
+            "lives_left": 1,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1583,
+            "traffic_type": "None",
+            "avatar": "https://avatars.steamstatic.com/e8faa4f3e240c4798188b57e21205acfd030bc30.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/e8faa4f3e240c4798188b57e21205acfd030bc30_full.jpg",
+            "personaname": "\u0950prog.",
+            "label": "No Hesi",
+            "website_name": "law420",
+            "server_title": "110 I Certified"
         },
         {
             "score": 20484311001,
@@ -5658,32 +5736,6 @@
             "server_title": null
         },
         {
-            "score": 19412835343,
-            "steamid": "76561198154864425",
-            "input": "Steering Wheel",
-            "combo": "44812.0",
-            "avg_speed": "202",
-            "run_time": "00:25:00",
-            "run_distance": "84.0",
-            "car_model": "bmw m4 g82 adro chris",
-            "server": "45.88.230.80:13344",
-            "map": "No Hesi 110",
-            "lives_left": 1,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1525,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/e8faa4f3e240c4798188b57e21205acfd030bc30.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/e8faa4f3e240c4798188b57e21205acfd030bc30_full.jpg",
-            "personaname": "\u0950prog.",
-            "label": "No Hesi",
-            "website_name": "law420",
-            "server_title": "Heavy Traffic I German Cars 110"
-        },
-        {
             "score": 19374691787,
             "steamid": "76561198957840949",
             "input": "Controller",
@@ -5970,32 +6022,6 @@
             "server_title": "110 I Certified"
         },
         {
-            "score": 18953933335,
-            "steamid": "76561199013585633",
-            "input": "Controller",
-            "combo": "43087.0",
-            "avg_speed": "211",
-            "run_time": "00:20:02",
-            "run_distance": "70.0",
-            "car_model": "toyota gr yaris",
-            "server": "45.88.229.84:13348",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1141,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/cbb4a8f6a8b09abbfb42601ccb9a5f5c81014027.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/cbb4a8f6a8b09abbfb42601ccb9a5f5c81014027_full.jpg",
-            "personaname": "sir. HoodieGuy\u00ae",
-            "label": "No Hesi",
-            "website_name": "sirhoodieguy",
-            "server_title": "Heavy Traffic I JDM Cars 110"
-        },
-        {
             "score": 18952361432,
             "steamid": "76561199211255148",
             "input": "Steering Wheel",
@@ -6152,6 +6178,39 @@
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
+            "score": 18631634149,
+            "steamid": "76561198201639026",
+            "input": "Steering Wheel",
+            "combo": "42179.0",
+            "avg_speed": "205",
+            "run_time": "00:25:00",
+            "run_distance": "85.0",
+            "car_model": "toyota gr yaris",
+            "server": "45.88.230.80:13352",
+            "map": "No Hesi 110",
+            "lives_left": 3,
+            "team": {
+                "members": [
+                    {
+                        "name": "CommandoCRO",
+                        "steamId": "76561198201639026",
+                        "website_name": "mamba92",
+                        "avatar_url": "https://cdn.discordapp.com/avatars/288022947090661378/838571c6f20c63588d17ac088e171a2e"
+                    }
+                ]
+            },
+            "prox_time": 1498,
+            "prox_combo": 1,
+            "cars_passed": 1299,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+            "personaname": "CommandoCRO",
+            "label": "No Hesi",
+            "website_name": "mamba92",
+            "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
             "score": 18599154438,
             "steamid": "76561199087351604",
             "input": "Steering Wheel",
@@ -6227,39 +6286,6 @@
             "personaname": "ZIIDOX",
             "label": "No Hesi",
             "website_name": "ziidox",
-            "server_title": "Heavy Traffic I JDM Cars 110"
-        },
-        {
-            "score": 18576446347,
-            "steamid": "76561199224537143",
-            "input": "Steering Wheel",
-            "combo": "42586.0",
-            "avg_speed": "207",
-            "run_time": "00:23:50",
-            "run_distance": "82.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "45.88.230.80:13352",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": [
-                    {
-                        "steamId": "76561199224537143",
-                        "name": "resmear",
-                        "website_name": "resmear",
-                        "avatar_url": "https://nohesi-bucket.s3.us-east-1.amazonaws.com/a9c73fe4-2aab-4b02-86c1-ed359bb3c8a8/avatar"
-                    }
-                ]
-            },
-            "prox_time": 1428,
-            "prox_combo": 1,
-            "cars_passed": 1244,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/6914e115bd7e4df5f59f5ef27d7330964a244e19.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/6914e115bd7e4df5f59f5ef27d7330964a244e19_full.jpg",
-            "personaname": "Senyura",
-            "label": "No Hesi",
-            "website_name": "resmear",
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
@@ -6575,6 +6601,32 @@
             "server_title": "110 I Certified"
         },
         {
+            "score": 18166197467,
+            "steamid": "76561198110786777",
+            "input": "Keyboard",
+            "combo": "41566.0",
+            "avg_speed": "197",
+            "run_time": "00:25:00",
+            "run_distance": "82.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.230.80:13352",
+            "map": "No Hesi 110",
+            "lives_left": 2,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1275,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/cce9909820e632590f88dbc5d48f2a4d66056b77.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/cce9909820e632590f88dbc5d48f2a4d66056b77_full.jpg",
+            "personaname": "Muhobis",
+            "label": "No Hesi",
+            "website_name": "maxas0",
+            "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
             "score": 18161581834,
             "steamid": "76561198859719450",
             "input": "Steering Wheel",
@@ -6676,6 +6728,58 @@
             "personaname": "\u2654Charter Bus\u2654",
             "label": "No Hesi",
             "website_name": "charterbus3",
+            "server_title": null
+        },
+        {
+            "score": 18078529434,
+            "steamid": "76561198958164686",
+            "input": "Steering Wheel",
+            "combo": "45548.0",
+            "avg_speed": "201",
+            "run_time": "00:25:00",
+            "run_distance": "84.0",
+            "car_model": "toyota gr yaris",
+            "server": "45.88.230.80:13052",
+            "map": "No Hesi 110",
+            "lives_left": 1,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1277,
+            "traffic_type": "None",
+            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+            "personaname": "Shnitzel",
+            "label": "No Hesi",
+            "website_name": "shnitzel",
+            "server_title": "110 I Certified"
+        },
+        {
+            "score": 18043115441,
+            "steamid": "76561198304089080",
+            "input": "Controller",
+            "combo": "42310.0",
+            "avg_speed": "190",
+            "run_time": "00:25:00",
+            "run_distance": "79.0",
+            "car_model": "bmw x3m f97 adro",
+            "server": "45.88.230.80:13348",
+            "map": "No Hesi 110",
+            "lives_left": 1,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1324,
+            "traffic_type": null,
+            "avatar": "https://avatars.steamstatic.com/f0e9cbf6ee41d89de887281115cee549b6be4757.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/f0e9cbf6ee41d89de887281115cee549b6be4757_full.jpg",
+            "personaname": "Scar",
+            "label": "No Hesi",
+            "website_name": "scar4",
             "server_title": null
         },
         {
@@ -6783,39 +6887,6 @@
             "server_title": "110 I Certified"
         },
         {
-            "score": 17771155812,
-            "steamid": "76561198958164686",
-            "input": "Steering Wheel",
-            "combo": "43594.0",
-            "avg_speed": "195",
-            "run_time": "00:23:50",
-            "run_distance": "78.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "45.88.230.80:13052",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": [
-                    {
-                        "name": "shnitzel3208",
-                        "steamId": "76561198958164686",
-                        "website_name": "shnitzel",
-                        "avatar_url": "https://cdn.discordapp.com/avatars/599541306251018240/674fcdeedde4b5849248188a7390e5ba"
-                    }
-                ]
-            },
-            "prox_time": 1429,
-            "prox_combo": 1,
-            "cars_passed": 1181,
-            "traffic_type": "None",
-            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
-            "personaname": "Shnitzel",
-            "label": "No Hesi",
-            "website_name": "shnitzel",
-            "server_title": "110 I Certified"
-        },
-        {
             "score": 17770793505,
             "steamid": "76561198332329134",
             "input": "Keyboard",
@@ -6892,6 +6963,32 @@
             "label": "No Hesi",
             "website_name": "dagpoop",
             "server_title": null
+        },
+        {
+            "score": 17738958745,
+            "steamid": "76561198059775828",
+            "input": "Steering Wheel",
+            "combo": "41265.0",
+            "avg_speed": "210",
+            "run_time": "00:25:00",
+            "run_distance": "88.0",
+            "car_model": "bmw m4 g82 adro chris",
+            "server": "45.88.230.80:13344",
+            "map": "No Hesi 110",
+            "lives_left": 2,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1378,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/8bc45f933264951bc1e5dbd28ce936a8efe2afa1.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/8bc45f933264951bc1e5dbd28ce936a8efe2afa1_full.jpg",
+            "personaname": "AlexItalix",
+            "label": "No Hesi",
+            "website_name": "alexitalix",
+            "server_title": "Heavy Traffic I German Cars 110"
         },
         {
             "score": 17727436967,
@@ -6984,6 +7081,32 @@
             "label": "No Hesi",
             "website_name": "flaco89",
             "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
+            "score": 17641451888,
+            "steamid": "76561198293625202",
+            "input": "Steering Wheel",
+            "combo": "42168.0",
+            "avg_speed": "212",
+            "run_time": "00:25:00",
+            "run_distance": "88.0",
+            "car_model": "bmw e39 m5 vlct",
+            "server": "45.88.230.80:13344",
+            "map": "No Hesi 110",
+            "lives_left": 1,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1399,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/c083be0031bc8fb1f2816f6fffdca28c95d9c1f9.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/c083be0031bc8fb1f2816f6fffdca28c95d9c1f9_full.jpg",
+            "personaname": "svenni",
+            "label": "No Hesi",
+            "website_name": "sven55",
+            "server_title": "Heavy Traffic I German Cars 110"
         },
         {
             "score": 17628225206,
@@ -7312,6 +7435,32 @@
             "server_title": null
         },
         {
+            "score": 17230973288,
+            "steamid": "76561198200938739",
+            "input": "Controller",
+            "combo": "41141.0",
+            "avg_speed": "209",
+            "run_time": "00:24:28",
+            "run_distance": "85.0",
+            "car_model": "toyota gr yaris",
+            "server": "45.88.229.84:13317",
+            "map": "No Hesi 110",
+            "lives_left": 0,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1442,
+            "traffic_type": null,
+            "avatar": "https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/1c0b5c37a442a2d39f32902ec42f2e26ba6a142e_full.jpg",
+            "personaname": "SlimTB",
+            "label": "No Hesi",
+            "website_name": "slimt",
+            "server_title": null
+        },
+        {
             "score": 17222580647,
             "steamid": "76561198096160111",
             "input": "Steering Wheel",
@@ -7624,6 +7773,32 @@
             "server_title": null
         },
         {
+            "score": 16902077426,
+            "steamid": "76561199049678538",
+            "input": "Controller",
+            "combo": "40120.0",
+            "avg_speed": "202",
+            "run_time": "00:25:00",
+            "run_distance": "84.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.230.80:13356",
+            "map": "No Hesi 110",
+            "lives_left": 3,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1185,
+            "traffic_type": null,
+            "avatar": "https://avatars.steamstatic.com/35eb986ddec52be02c02300665ccebfaa534171a.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/35eb986ddec52be02c02300665ccebfaa534171a_full.jpg",
+            "personaname": "TheStradFan",
+            "label": "No Hesi",
+            "website_name": "stradman",
+            "server_title": null
+        },
+        {
             "score": 16884147580,
             "steamid": "76561198295258958",
             "input": "Steering Wheel",
@@ -7648,39 +7823,6 @@
             "label": "No Hesi",
             "website_name": null,
             "server_title": null
-        },
-        {
-            "score": 16863645157,
-            "steamid": "76561199542864074",
-            "input": "Steering Wheel",
-            "combo": "41998.0",
-            "avg_speed": "201",
-            "run_time": "00:25:00",
-            "run_distance": "84.0",
-            "car_model": "mazda rx7 fd",
-            "server": "45.88.229.84:13348",
-            "map": "No Hesi 110",
-            "lives_left": 1,
-            "team": {
-                "members": [
-                    {
-                        "steamId": "76561199542864074",
-                        "name": "pawel9188",
-                        "website_name": "pawel420",
-                        "avatar_url": "https://avatars.steamstatic.com/90281bcb08a9d28ef4c343c5f6b8b75f093e4a9b.jpg"
-                    }
-                ]
-            },
-            "prox_time": 1498,
-            "prox_combo": 1,
-            "cars_passed": 1042,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/90281bcb08a9d28ef4c343c5f6b8b75f093e4a9b.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/90281bcb08a9d28ef4c343c5f6b8b75f093e4a9b_full.jpg",
-            "personaname": "mkpawel60",
-            "label": "No Hesi",
-            "website_name": "pawel420",
-            "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
             "score": 16847093261,
@@ -7818,6 +7960,32 @@
             "label": "No Hesi",
             "website_name": "x7pzvy",
             "server_title": "110 I Certified"
+        },
+        {
+            "score": 16753786993,
+            "steamid": "76561198240231724",
+            "input": "Steering Wheel",
+            "combo": "40576.0",
+            "avg_speed": "206",
+            "run_time": "00:22:55",
+            "run_distance": "79.0",
+            "car_model": "bmw f81 m3",
+            "server": "45.88.229.84:13317",
+            "map": "No Hesi 110",
+            "lives_left": 0,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1279,
+            "traffic_type": null,
+            "avatar": "https://avatars.steamstatic.com/83d2ab083eb76aebed718fd01921fbe2af2b7e35.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/83d2ab083eb76aebed718fd01921fbe2af2b7e35_full.jpg",
+            "personaname": "Shadow1130",
+            "label": "No Hesi",
+            "website_name": "shadow1130",
+            "server_title": null
         },
         {
             "score": 16745106255,
@@ -8451,6 +8619,32 @@
             "server_title": "110 I Certified"
         },
         {
+            "score": 16313066339,
+            "steamid": "76561198280499817",
+            "input": "Steering Wheel",
+            "combo": "39227.0",
+            "avg_speed": "189",
+            "run_time": "00:25:00",
+            "run_distance": "79.0",
+            "car_model": "toyota gr yaris",
+            "server": "45.88.230.80:13356",
+            "map": "No Hesi 110",
+            "lives_left": 2,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1296,
+            "traffic_type": null,
+            "avatar": "https://avatars.steamstatic.com/a41e3f0f554ab0321dc07625841f7a48d3fe0ffa.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/a41e3f0f554ab0321dc07625841f7a48d3fe0ffa_full.jpg",
+            "personaname": "Rechti",
+            "label": "No Hesi",
+            "website_name": "rechti",
+            "server_title": null
+        },
+        {
             "score": 16281607591,
             "steamid": "76561199198612702",
             "input": "Steering Wheel",
@@ -8475,6 +8669,39 @@
             "label": "No Hesi",
             "website_name": "vthraxx",
             "server_title": null
+        },
+        {
+            "score": 16234007239,
+            "steamid": "76561198286611187",
+            "input": "Steering Wheel",
+            "combo": "39285.0",
+            "avg_speed": "184",
+            "run_time": "00:25:00",
+            "run_distance": "77.0",
+            "car_model": "bmw x3m f97 adro",
+            "server": "103.73.65.155:13335",
+            "map": "No Hesi 110",
+            "lives_left": 2,
+            "team": {
+                "members": [
+                    {
+                        "name": "vroomy",
+                        "steamId": "76561198286611187",
+                        "website_name": "vroomy",
+                        "avatar_url": "https://cdn.discordapp.com/avatars/216760538460454912/7c5530e1a3628c73c08b60edcc55b68c"
+                    }
+                ]
+            },
+            "prox_time": 1498,
+            "prox_combo": 1,
+            "cars_passed": 1218,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/fe8c4c8a62a48f42334605b93d1526ddb89237d7.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/fe8c4c8a62a48f42334605b93d1526ddb89237d7_full.jpg",
+            "personaname": "Vroomy",
+            "label": "No Hesi",
+            "website_name": "vroomy",
+            "server_title": "Heavy Traffic I German Cars 110"
         },
         {
             "score": 16215632592,
@@ -8579,6 +8806,32 @@
             "label": "No Hesi",
             "website_name": "monki",
             "server_title": "Heavy Traffic I Exotic Cars 110"
+        },
+        {
+            "score": 16189011459,
+            "steamid": "76561199041847106",
+            "input": "Controller",
+            "combo": "39555.0",
+            "avg_speed": "197",
+            "run_time": "00:24:33",
+            "run_distance": "80.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.229.84:13348",
+            "map": "No Hesi 110",
+            "lives_left": 0,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1090,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+            "personaname": "IDidntASK",
+            "label": "No Hesi",
+            "website_name": "goofysglock",
+            "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
             "score": 16174036039,
@@ -8763,6 +9016,58 @@
             "server_title": null
         },
         {
+            "score": 16039884231,
+            "steamid": "76561199789587435",
+            "input": "Steering Wheel",
+            "combo": "39611.0",
+            "avg_speed": "211",
+            "run_time": "00:17:50",
+            "run_distance": "63.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.229.84:13317",
+            "map": "No Hesi 110",
+            "lives_left": 0,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1130,
+            "traffic_type": null,
+            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+            "personaname": "bernharddestine",
+            "label": "No Hesi",
+            "website_name": "brnhxrd",
+            "server_title": null
+        },
+        {
+            "score": 16039310675,
+            "steamid": "76561198841323064",
+            "input": "Steering Wheel",
+            "combo": "39116.0",
+            "avg_speed": "206",
+            "run_time": "00:25:00",
+            "run_distance": "86.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.229.84:13317",
+            "map": "No Hesi 110",
+            "lives_left": 2,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1463,
+            "traffic_type": null,
+            "avatar": "https://avatars.steamstatic.com/14fa45d90d1774068441651602af9b2de61890b4.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/14fa45d90d1774068441651602af9b2de61890b4_full.jpg",
+            "personaname": "Dak",
+            "label": "No Hesi",
+            "website_name": "itsdak",
+            "server_title": null
+        },
+        {
             "score": 16032724070,
             "steamid": "76561198398940585",
             "input": "Controller",
@@ -8865,32 +9170,6 @@
             "label": "No Hesi",
             "website_name": "fletcherbunting112",
             "server_title": "Heavy Traffic I JDM Cars 110"
-        },
-        {
-            "score": 16003223740,
-            "steamid": "76561198240231724",
-            "input": "Steering Wheel",
-            "combo": "39581.0",
-            "avg_speed": "210",
-            "run_time": "00:24:55",
-            "run_distance": "87.0",
-            "car_model": "bmw f81 m3",
-            "server": "198.251.83.153:13052",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1595,
-            "traffic_type": "None",
-            "avatar": "https://avatars.steamstatic.com/83d2ab083eb76aebed718fd01921fbe2af2b7e35.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/83d2ab083eb76aebed718fd01921fbe2af2b7e35_full.jpg",
-            "personaname": "Shadow1130",
-            "label": "No Hesi",
-            "website_name": "shadow1130",
-            "server_title": "110 I Certified"
         },
         {
             "score": 15990900925,
@@ -9127,6 +9406,32 @@
             "server_title": null
         },
         {
+            "score": 15875175166,
+            "steamid": "76561198213053995",
+            "input": "Controller",
+            "combo": "38725.0",
+            "avg_speed": "195",
+            "run_time": "00:25:00",
+            "run_distance": "81.0",
+            "car_model": "toyota gr yaris",
+            "server": "45.88.229.84:13349",
+            "map": "No Hesi 110",
+            "lives_left": 3,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1249,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/81b66713038d7702938a06fcc9dea6962115791f.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/81b66713038d7702938a06fcc9dea6962115791f_full.jpg",
+            "personaname": "yurrrr",
+            "label": "No Hesi",
+            "website_name": "cnineteen",
+            "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
             "score": 15860380894,
             "steamid": "76561199366345238",
             "input": "Controller",
@@ -9257,6 +9562,39 @@
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
+            "score": 15745267594,
+            "steamid": "76561198272048159",
+            "input": "Steering Wheel",
+            "combo": "38684.0",
+            "avg_speed": "194",
+            "run_time": "00:25:00",
+            "run_distance": "81.0",
+            "car_model": "toyota gr yaris",
+            "server": "45.88.229.84:13348",
+            "map": "No Hesi 110",
+            "lives_left": 2,
+            "team": {
+                "members": [
+                    {
+                        "steamId": "76561198272048159",
+                        "name": "Breo",
+                        "website_name": "breoo",
+                        "avatar_url": "https://cdn.discordapp.com/avatars/881265744661315625/8fc7b371deb0338e77abdb85cd217a3c"
+                    }
+                ]
+            },
+            "prox_time": 1499,
+            "prox_combo": 1,
+            "cars_passed": 1136,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/4ca66d26e3bd592eed6b6efbeb4b88e604e8f201.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/4ca66d26e3bd592eed6b6efbeb4b88e604e8f201_full.jpg",
+            "personaname": "Breo",
+            "label": "No Hesi",
+            "website_name": "breoo",
+            "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
             "score": 15725170377,
             "steamid": "76561198842385835",
             "input": "Steering Wheel",
@@ -9280,32 +9618,6 @@
             "personaname": "KvngCapo__",
             "label": "No Hesi",
             "website_name": "kvngcapo",
-            "server_title": null
-        },
-        {
-            "score": 15714149882,
-            "steamid": "76561199789587435",
-            "input": "Steering Wheel",
-            "combo": "41939.0",
-            "avg_speed": "191",
-            "run_time": "00:21:22",
-            "run_distance": "68.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "45.88.229.84:13317",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1270,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
-            "personaname": "bernharddestine",
-            "label": "No Hesi",
-            "website_name": "brnhxrd",
             "server_title": null
         },
         {
@@ -9489,6 +9801,39 @@
             "label": "No Hesi",
             "website_name": "banadaman",
             "server_title": null
+        },
+        {
+            "score": 15598997183,
+            "steamid": "76561198359472282",
+            "input": "Controller",
+            "combo": "39116.0",
+            "avg_speed": "199",
+            "run_time": "00:25:00",
+            "run_distance": "83.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.230.80:13352",
+            "map": "No Hesi 110",
+            "lives_left": 1,
+            "team": {
+                "members": [
+                    {
+                        "steamId": "76561198359472282",
+                        "name": "Niggasaurus Rex",
+                        "website_name": "veron",
+                        "avatar_url": "https://cdn.discordapp.com/avatars/374181497072254977/57bdf25b3a69cbf02b70336e54b63bea"
+                    }
+                ]
+            },
+            "prox_time": 1498,
+            "prox_combo": 1,
+            "cars_passed": 1121,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/42a29daa062e2552aa710a14ccbe5b4c4b89bc88.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/42a29daa062e2552aa710a14ccbe5b4c4b89bc88_full.jpg",
+            "personaname": "Niggasaurus Rex",
+            "label": "No Hesi",
+            "website_name": "veron",
+            "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
             "score": 15585244344,
@@ -9791,6 +10136,32 @@
             "server_title": "110 I Certified"
         },
         {
+            "score": 15386015698,
+            "steamid": "76561198305777688",
+            "input": "Controller",
+            "combo": "40653.0",
+            "avg_speed": "197",
+            "run_time": "00:24:04",
+            "run_distance": "79.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.230.80:13353",
+            "map": "No Hesi 110",
+            "lives_left": 0,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1322,
+            "traffic_type": null,
+            "avatar": "https://avatars.steamstatic.com/646d33fbfa45cc287427e72f80f6ecd14da23851.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/646d33fbfa45cc287427e72f80f6ecd14da23851_full.jpg",
+            "personaname": "TSC Origniti",
+            "label": "No Hesi",
+            "website_name": "tsc_origniti",
+            "server_title": null
+        },
+        {
             "score": 15368721606,
             "steamid": "76561199689057612",
             "input": "Controller",
@@ -9840,6 +10211,39 @@
             "personaname": "Kakesu",
             "label": "No Hesi",
             "website_name": null,
+            "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
+            "score": 15344962368,
+            "steamid": "76561198349960965",
+            "input": "Steering Wheel",
+            "combo": "38170.0",
+            "avg_speed": "194",
+            "run_time": "00:25:00",
+            "run_distance": "81.0",
+            "car_model": "toyota supra mk4",
+            "server": "45.88.230.80:13352",
+            "map": "No Hesi 110",
+            "lives_left": 2,
+            "team": {
+                "members": [
+                    {
+                        "steamId": "76561198349960965",
+                        "name": "JraTheGod",
+                        "website_name": "jrathegod",
+                        "avatar_url": "https://cdn.discordapp.com/avatars/605135587468509197/a_9ecb5db23d6c40d95ae1cc001cf6ab70"
+                    }
+                ]
+            },
+            "prox_time": 1498,
+            "prox_combo": 1,
+            "cars_passed": 1273,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/3017f64da039e05834f718537fc1fba48efe92e6.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/3017f64da039e05834f718537fc1fba48efe92e6_full.jpg",
+            "personaname": "JraTheGod",
+            "label": "No Hesi",
+            "website_name": "jrathegod",
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
@@ -9918,32 +10322,6 @@
             "personaname": "Brookathias",
             "label": "No Hesi",
             "website_name": "brookathias",
-            "server_title": null
-        },
-        {
-            "score": 15303147356,
-            "steamid": "76561198841323064",
-            "input": "Steering Wheel",
-            "combo": "39831.0",
-            "avg_speed": "198",
-            "run_time": "00:23:26",
-            "run_distance": "77.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "45.88.229.84:13351",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1415,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/14fa45d90d1774068441651602af9b2de61890b4.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/14fa45d90d1774068441651602af9b2de61890b4_full.jpg",
-            "personaname": "Dak",
-            "label": "No Hesi",
-            "website_name": "itsdak",
             "server_title": null
         },
         {
@@ -10129,29 +10507,36 @@
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
-            "score": 15212462426,
-            "steamid": "76561199042505817",
+            "score": 15213073487,
+            "steamid": "76561198708804855",
             "input": "Steering Wheel",
-            "combo": "38077.0",
-            "avg_speed": "200",
+            "combo": "38554.0",
+            "avg_speed": "188",
             "run_time": "00:25:00",
-            "run_distance": "83.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "45.88.229.84:13349",
+            "run_distance": "78.0",
+            "car_model": "toyota gr yaris",
+            "server": "45.88.230.80:13352",
             "map": "No Hesi 110",
-            "lives_left": 3,
+            "lives_left": 2,
             "team": {
-                "members": []
+                "members": [
+                    {
+                        "name": "GRNVLR",
+                        "steamId": "76561198708804855",
+                        "website_name": "mpainmusic",
+                        "avatar_url": "https://cdn.discordapp.com/avatars/142352237807534081/60f407d87052526878bbbd2e1eb28477"
+                    }
+                ]
             },
-            "prox_time": 0,
+            "prox_time": 1498,
             "prox_combo": 1,
-            "cars_passed": 1233,
+            "cars_passed": 1211,
             "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/a7b9015a268f8274f0bf59f495de9efe5e46ff73.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/a7b9015a268f8274f0bf59f495de9efe5e46ff73_full.jpg",
-            "personaname": "Bentlegz",
+            "avatar": "https://avatars.steamstatic.com/923f12fe2d859adedaafa9976eaecadb6ff1d988.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/923f12fe2d859adedaafa9976eaecadb6ff1d988_full.jpg",
+            "personaname": "GRNVLR",
             "label": "No Hesi",
-            "website_name": "bentlegzz",
+            "website_name": "mpainmusic",
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
@@ -10308,6 +10693,39 @@
             "personaname": "Ai7CH_",
             "label": "No Hesi",
             "website_name": "ai7ch",
+            "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
+            "score": 15106579852,
+            "steamid": "76561199065025689",
+            "input": "Steering Wheel",
+            "combo": "38921.0",
+            "avg_speed": "200",
+            "run_time": "00:23:03",
+            "run_distance": "77.0",
+            "car_model": "mazda rx7 fd",
+            "server": "45.88.230.80:13352",
+            "map": "No Hesi 110",
+            "lives_left": 0,
+            "team": {
+                "members": [
+                    {
+                        "steamId": "76561199065025689",
+                        "name": "Oniv2",
+                        "website_name": "oniv2",
+                        "avatar_url": "https://nohesi-bucket.s3.us-east-1.amazonaws.com/e0754d63-5e47-4d04-9b63-b7c42e7362f2/avatar"
+                    }
+                ]
+            },
+            "prox_time": 1382,
+            "prox_combo": 1,
+            "cars_passed": 1215,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+            "personaname": "Ino",
+            "label": "No Hesi",
+            "website_name": "oniv2",
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
@@ -10519,6 +10937,32 @@
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
+            "score": 15014216100,
+            "steamid": "76561198145835606",
+            "input": "Steering Wheel",
+            "combo": "37648.0",
+            "avg_speed": "188",
+            "run_time": "00:25:00",
+            "run_distance": "79.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "103.73.65.155:13337",
+            "map": "No Hesi 110",
+            "lives_left": 2,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1158,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/d7fbf2e2d7e458169ae41ea8a7d57bd7a6ca59da.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/d7fbf2e2d7e458169ae41ea8a7d57bd7a6ca59da_full.jpg",
+            "personaname": "Deja Beug",
+            "label": "No Hesi",
+            "website_name": "deja_beug",
+            "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
             "score": 15014108888,
             "steamid": "76561198271887158",
             "input": "Steering Wheel",
@@ -10647,6 +11091,32 @@
             "label": "No Hesi",
             "website_name": "sk1block",
             "server_title": null
+        },
+        {
+            "score": 14949420095,
+            "steamid": "76561199591797398",
+            "input": "Steering Wheel",
+            "combo": "40252.0",
+            "avg_speed": "214",
+            "run_time": "00:25:00",
+            "run_distance": "89.0",
+            "car_model": "mazda rx7 fd",
+            "server": "45.88.230.80:13352",
+            "map": "No Hesi 110",
+            "lives_left": 1,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1550,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
+            "personaname": "s4r4t",
+            "label": "No Hesi",
+            "website_name": "luckyqw",
+            "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
             "score": 14941570075,
@@ -11065,6 +11535,39 @@
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
+            "score": 14566199609,
+            "steamid": "76561198142176906",
+            "input": "Steering Wheel",
+            "combo": "37462.0",
+            "avg_speed": "189",
+            "run_time": "00:24:46",
+            "run_distance": "78.0",
+            "car_model": "mazda rx7 fd",
+            "server": "45.88.229.84:13349",
+            "map": "No Hesi 110",
+            "lives_left": 0,
+            "team": {
+                "members": [
+                    {
+                        "steamId": "76561198142176906",
+                        "name": "yeehaw",
+                        "website_name": "yeehaw",
+                        "avatar_url": "https://cdn.discordapp.com/avatars/291021976297013248/22d3a640ba7a77035bef5fc25af4310b"
+                    }
+                ]
+            },
+            "prox_time": 1484,
+            "prox_combo": 1,
+            "cars_passed": 1345,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/9f777a4fbd4fbb7c69465510a86785191e61fe37.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/9f777a4fbd4fbb7c69465510a86785191e61fe37_full.jpg",
+            "personaname": "yeehaw",
+            "label": "No Hesi",
+            "website_name": "yeehaw",
+            "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
             "score": 14553618521,
             "steamid": "76561199598764141",
             "input": "Steering Wheel",
@@ -11323,32 +11826,6 @@
             "label": "No Hesi",
             "website_name": "tzlzin",
             "server_title": "110 I Certified"
-        },
-        {
-            "score": 14420737838,
-            "steamid": "76561198059775828",
-            "input": "Steering Wheel",
-            "combo": "38174.0",
-            "avg_speed": "205",
-            "run_time": "00:24:19",
-            "run_distance": "83.0",
-            "car_model": "bmw m4 g82 adro chris",
-            "server": "45.88.230.80:13344",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1430,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/8bc45f933264951bc1e5dbd28ce936a8efe2afa1.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/8bc45f933264951bc1e5dbd28ce936a8efe2afa1_full.jpg",
-            "personaname": "AlexItalix",
-            "label": "No Hesi",
-            "website_name": "alexitalix",
-            "server_title": "Heavy Traffic I German Cars 110"
         },
         {
             "score": 14407422878,
@@ -11793,6 +12270,32 @@
             "server_title": null
         },
         {
+            "score": 14192291496,
+            "steamid": "76561198418066794",
+            "input": "Steering Wheel",
+            "combo": "37706.0",
+            "avg_speed": "202",
+            "run_time": "00:25:00",
+            "run_distance": "84.0",
+            "car_model": "mazda rx7 fd",
+            "server": "45.88.230.80:13352",
+            "map": "No Hesi 110",
+            "lives_left": 1,
+            "team": {
+                "members": []
+            },
+            "prox_time": 0,
+            "prox_combo": 1,
+            "cars_passed": 1327,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/822d06a3dbae932bc9068bb4b455545b84e3507c.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/822d06a3dbae932bc9068bb4b455545b84e3507c_full.jpg",
+            "personaname": "Jorge",
+            "label": "No Hesi",
+            "website_name": "oliveira34",
+            "server_title": "Heavy Traffic I JDM Cars 110"
+        },
+        {
             "score": 14190718810,
             "steamid": "76561199262954777",
             "input": "Steering Wheel",
@@ -11999,6 +12502,39 @@
             "label": "No Hesi",
             "website_name": "zeroagain",
             "server_title": null
+        },
+        {
+            "score": 14086786381,
+            "steamid": "76561199465825691",
+            "input": "Controller",
+            "combo": "38925.0",
+            "avg_speed": "206",
+            "run_time": "00:19:47",
+            "run_distance": "68.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.230.80:13352",
+            "map": "No Hesi 110",
+            "lives_left": 0,
+            "team": {
+                "members": [
+                    {
+                        "steamId": "76561199465825691",
+                        "name": "ImYerrs",
+                        "website_name": "imyerrs",
+                        "avatar_url": "https://nohesi-bucket.s3.us-east-1.amazonaws.com/df56045a-7e27-4fde-a854-2232c000115b/avatar"
+                    }
+                ]
+            },
+            "prox_time": 1186,
+            "prox_combo": 1,
+            "cars_passed": 1146,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/8a78a24d3ae3031caf2695bc4dede2d6eb7af7cf.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/8a78a24d3ae3031caf2695bc4dede2d6eb7af7cf_full.jpg",
+            "personaname": "Ashrulight",
+            "label": "No Hesi",
+            "website_name": "imyerrs",
+            "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
             "score": 14078527790,
@@ -12301,32 +12837,6 @@
             "server_title": "110 I Certified"
         },
         {
-            "score": 13895528386,
-            "steamid": "76561198286611187",
-            "input": "Steering Wheel",
-            "combo": "37659.0",
-            "avg_speed": "198",
-            "run_time": "00:25:00",
-            "run_distance": "83.0",
-            "car_model": "bmw x3m f97 adro",
-            "server": "103.73.65.155:13335",
-            "map": "No Hesi 110",
-            "lives_left": 1,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1296,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/fe8c4c8a62a48f42334605b93d1526ddb89237d7.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/fe8c4c8a62a48f42334605b93d1526ddb89237d7_full.jpg",
-            "personaname": "Vroomy",
-            "label": "No Hesi",
-            "website_name": "vroomy",
-            "server_title": "Heavy Traffic I German Cars 110"
-        },
-        {
             "score": 13887618520,
             "steamid": "76561199817516079",
             "input": "Steering Wheel",
@@ -12509,30 +13019,37 @@
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
-            "score": 13812006095,
-            "steamid": "76561198304089080",
-            "input": "Controller",
-            "combo": "36960.0",
-            "avg_speed": "206",
-            "run_time": "00:21:44",
-            "run_distance": "74.0",
-            "car_model": "mercedes w201 vlct",
-            "server": "103.73.65.155:13336",
+            "score": 13788325622,
+            "steamid": "76561198389968062",
+            "input": "Steering Wheel",
+            "combo": "36151.0",
+            "avg_speed": "195",
+            "run_time": "00:25:00",
+            "run_distance": "81.0",
+            "car_model": "subaru wrx sti gd kz",
+            "server": "45.88.230.80:13352",
             "map": "No Hesi 110",
-            "lives_left": 0,
+            "lives_left": 2,
             "team": {
-                "members": []
+                "members": [
+                    {
+                        "steamId": "76561198389968062",
+                        "name": "paxzil",
+                        "website_name": "woodsonwheels",
+                        "avatar_url": "https://avatars.steamstatic.com/c1cccf85d6b5074269385339a1086dae52e19d0d.jpg"
+                    }
+                ]
             },
-            "prox_time": 0,
+            "prox_time": 1498,
             "prox_combo": 1,
-            "cars_passed": 1223,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/f0e9cbf6ee41d89de887281115cee549b6be4757.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/f0e9cbf6ee41d89de887281115cee549b6be4757_full.jpg",
-            "personaname": "Scar",
+            "cars_passed": 1180,
+            "traffic_type": "Heavy",
+            "avatar": "https://avatars.steamstatic.com/c1cccf85d6b5074269385339a1086dae52e19d0d.jpg",
+            "avatarfull": "https://avatars.steamstatic.com/c1cccf85d6b5074269385339a1086dae52e19d0d_full.jpg",
+            "personaname": "wrongsauce",
             "label": "No Hesi",
-            "website_name": "scar4",
-            "server_title": null
+            "website_name": "woodsonwheels",
+            "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
             "score": 13774161526,
@@ -12558,39 +13075,6 @@
             "personaname": "21x2",
             "label": "No Hesi",
             "website_name": "tarnished",
-            "server_title": "Heavy Traffic I JDM Cars 110"
-        },
-        {
-            "score": 13763977799,
-            "steamid": "76561199065025689",
-            "input": "Steering Wheel",
-            "combo": "37766.0",
-            "avg_speed": "194",
-            "run_time": "00:25:00",
-            "run_distance": "81.0",
-            "car_model": "toyota supra mk4",
-            "server": "45.88.230.80:13352",
-            "map": "No Hesi 110",
-            "lives_left": 1,
-            "team": {
-                "members": [
-                    {
-                        "name": "oniv22ttv",
-                        "steamId": "76561199065025689",
-                        "website_name": "oniv2",
-                        "avatar_url": "https://nohesi-bucket.s3.us-east-1.amazonaws.com/e0754d63-5e47-4d04-9b63-b7c42e7362f2/avatar"
-                    }
-                ]
-            },
-            "prox_time": 1499,
-            "prox_combo": 1,
-            "cars_passed": 1223,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
-            "personaname": "Ino",
-            "label": "No Hesi",
-            "website_name": "oniv2",
             "server_title": "Heavy Traffic I JDM Cars 110"
         },
         {
@@ -12865,462 +13349,6 @@
             "personaname": "Deadshot",
             "label": "No Hesi",
             "website_name": "deadshot420",
-            "server_title": "Heavy Traffic I JDM Cars 110"
-        },
-        {
-            "score": 13637181096,
-            "steamid": "76561198077952381",
-            "input": "Steering Wheel",
-            "combo": "36234.0",
-            "avg_speed": "192",
-            "run_time": "00:25:00",
-            "run_distance": "80.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "205.178.182.11:13349",
-            "map": "No Hesi 110",
-            "lives_left": 1,
-            "team": {
-                "members": [
-                    {
-                        "name": "uwu_sakura",
-                        "steamId": "76561198077952381",
-                        "website_name": "uwusakurai",
-                        "avatar_url": "https://cdn.discordapp.com/avatars/192307755728502784/fb6696317d270a43910a7200bedc0a0c"
-                    }
-                ]
-            },
-            "prox_time": 1498,
-            "prox_combo": 1,
-            "cars_passed": 1302,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/f10f7529f47d1b06ccabedd9e57a3c75be7d7bd6.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/f10f7529f47d1b06ccabedd9e57a3c75be7d7bd6_full.jpg",
-            "personaname": "\u30e0Loki\u30e0",
-            "label": "No Hesi",
-            "website_name": "uwusakurai",
-            "server_title": null
-        },
-        {
-            "score": 13634563185,
-            "steamid": "76561198826854523",
-            "input": "Controller",
-            "combo": "36224.0",
-            "avg_speed": "205",
-            "run_time": "00:25:00",
-            "run_distance": "85.0",
-            "car_model": "lamborghini huracan lp610",
-            "server": "45.88.229.84:13359",
-            "map": "No Hesi 110",
-            "lives_left": 2,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1154,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/a6073a15c563646efa5599dd1a708d63ab3daf3f.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/a6073a15c563646efa5599dd1a708d63ab3daf3f_full.jpg",
-            "personaname": "hugo sabugo",
-            "label": "No Hesi",
-            "website_name": "txcrr",
-            "server_title": "Heavy Traffic I Exotic Cars 110"
-        },
-        {
-            "score": 13631525776,
-            "steamid": "76561199171914201",
-            "input": "Steering Wheel",
-            "combo": "36586.0",
-            "avg_speed": "193",
-            "run_time": "00:25:00",
-            "run_distance": "80.0",
-            "car_model": "toyota gr86 adrowide",
-            "server": "45.88.230.80:13352",
-            "map": "No Hesi 110",
-            "lives_left": 1,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1190,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
-            "personaname": "sriirachaaa",
-            "label": "No Hesi",
-            "website_name": "sriirachaaa",
-            "server_title": "Heavy Traffic I JDM Cars 110"
-        },
-        {
-            "score": 13628142378,
-            "steamid": "76561198975948264",
-            "input": "Steering Wheel",
-            "combo": "36105.0",
-            "avg_speed": "194",
-            "run_time": "00:24:29",
-            "run_distance": "79.0",
-            "car_model": "bmw m4 g82 adro chris",
-            "server": "45.88.230.80:13344",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1204,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/9949f33e86c457f5a6e3ec9e9f730ee0ce17759a.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/9949f33e86c457f5a6e3ec9e9f730ee0ce17759a_full.jpg",
-            "personaname": "sim",
-            "label": "No Hesi",
-            "website_name": "qqqqqqqq5",
-            "server_title": "Heavy Traffic I German Cars 110"
-        },
-        {
-            "score": 13591626938,
-            "steamid": "76561198996139242",
-            "input": "Steering Wheel",
-            "combo": "39078.0",
-            "avg_speed": "202",
-            "run_time": "00:25:00",
-            "run_distance": "84.0",
-            "car_model": "toyota supra mk4",
-            "server": "45.88.230.80:13352",
-            "map": "No Hesi 110",
-            "lives_left": 1,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1339,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/2516779cd2cfd6fb228e4c09b0550df3c942fc03.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/2516779cd2cfd6fb228e4c09b0550df3c942fc03_full.jpg",
-            "personaname": "getLinuxed",
-            "label": "No Hesi",
-            "website_name": "squeezeantoni",
-            "server_title": "Heavy Traffic I JDM Cars 110"
-        },
-        {
-            "score": 13587698282,
-            "steamid": "76561198038140941",
-            "input": "Controller",
-            "combo": "38509.0",
-            "avg_speed": "189",
-            "run_time": "00:24:59",
-            "run_distance": "79.0",
-            "car_model": "kimera evo37 kz",
-            "server": "45.88.229.84:13364",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1165,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/8fc0d95c378277c37a8c8d218c2b03c9bd10b124.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/8fc0d95c378277c37a8c8d218c2b03c9bd10b124_full.jpg",
-            "personaname": "FoolThyme",
-            "label": "No Hesi",
-            "website_name": "foolthyme",
-            "server_title": null
-        },
-        {
-            "score": 13583554161,
-            "steamid": "76561199254208779",
-            "input": "Steering Wheel",
-            "combo": "36605.0",
-            "avg_speed": "198",
-            "run_time": "00:23:41",
-            "run_distance": "78.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "103.73.65.155:13337",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1151,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/b43d8dfa56b8ae2bbf057fbeb5bde6c0098a28f3.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/b43d8dfa56b8ae2bbf057fbeb5bde6c0098a28f3_full.jpg",
-            "personaname": "stxszek",
-            "label": "No Hesi",
-            "website_name": "stxszek",
-            "server_title": "Heavy Traffic I JDM Cars 110"
-        },
-        {
-            "score": 13559709494,
-            "steamid": "76561198156450798",
-            "input": "Controller",
-            "combo": "36235.0",
-            "avg_speed": "199",
-            "run_time": "00:25:00",
-            "run_distance": "83.0",
-            "car_model": "mercedes c63 coupe",
-            "server": "45.88.230.80:13052",
-            "map": "No Hesi 110",
-            "lives_left": 2,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1383,
-            "traffic_type": "None",
-            "avatar": "https://avatars.steamstatic.com/3b6f197affd82c10dfb124a96737d7c88ff2d92d.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/3b6f197affd82c10dfb124a96737d7c88ff2d92d_full.jpg",
-            "personaname": "Kaldera",
-            "label": "No Hesi",
-            "website_name": "kaldera",
-            "server_title": "110 I Certified"
-        },
-        {
-            "score": 13547406726,
-            "steamid": "76561198993557943",
-            "input": "Steering Wheel",
-            "combo": "36454.0",
-            "avg_speed": "197",
-            "run_time": "00:25:00",
-            "run_distance": "82.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "103.73.65.155:13338",
-            "map": "No Hesi 110",
-            "lives_left": 2,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1344,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
-            "personaname": "\u80fd\u8c46\u513f",
-            "label": "No Hesi",
-            "website_name": null,
-            "server_title": null
-        },
-        {
-            "score": 13503245197,
-            "steamid": "76561199488256375",
-            "input": "Steering Wheel",
-            "combo": "24878.0",
-            "avg_speed": "241",
-            "run_time": "00:25:00",
-            "run_distance": "100.0",
-            "car_model": "bmw m4 g82 adro chris",
-            "server": "45.88.230.80:13077",
-            "map": "No Hesi 415",
-            "lives_left": 1,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1550,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/533beedd2b291ad4d399dacbe4af555ba074e8f3.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/533beedd2b291ad4d399dacbe4af555ba074e8f3_full.jpg",
-            "personaname": "Twez1SS",
-            "label": "No Hesi",
-            "website_name": "twez1s",
-            "server_title": null
-        },
-        {
-            "score": 13495150392,
-            "steamid": "76561198312545004",
-            "input": "Steering Wheel",
-            "combo": "38269.0",
-            "avg_speed": "0",
-            "run_time": "00:25:02",
-            "run_distance": "80.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "205.178.182.11:13349",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1237,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/eb9a5c0130ac45ac22a3f7e19b353dd009251f74.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/eb9a5c0130ac45ac22a3f7e19b353dd009251f74_full.jpg",
-            "personaname": "eli",
-            "label": "No Hesi",
-            "website_name": "nxt3li",
-            "server_title": null
-        },
-        {
-            "score": 13477177791,
-            "steamid": "76561198286188833",
-            "input": "Controller",
-            "combo": "38994.0",
-            "avg_speed": "200",
-            "run_time": "00:23:06",
-            "run_distance": "77.0",
-            "car_model": "porsche gt3rs",
-            "server": "45.88.230.80:13344",
-            "map": "No Hesi 110",
-            "lives_left": 0,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1206,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/072937b4f826cc68ea2d9c24617ee8b524ae8dfe.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/072937b4f826cc68ea2d9c24617ee8b524ae8dfe_full.jpg",
-            "personaname": "The Spicy",
-            "label": "No Hesi",
-            "website_name": "thecorvi",
-            "server_title": "Heavy Traffic I German Cars 110"
-        },
-        {
-            "score": 13456703732,
-            "steamid": "76561198349960965",
-            "input": "Steering Wheel",
-            "combo": "35683.0",
-            "avg_speed": "191",
-            "run_time": "00:25:00",
-            "run_distance": "80.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "45.88.229.84:13349",
-            "map": "No Hesi 110",
-            "lives_left": 2,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1062,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/3017f64da039e05834f718537fc1fba48efe92e6.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/3017f64da039e05834f718537fc1fba48efe92e6_full.jpg",
-            "personaname": "JraTheGod",
-            "label": "No Hesi",
-            "website_name": "jrathegod",
-            "server_title": "Heavy Traffic I JDM Cars 110"
-        },
-        {
-            "score": 13456529753,
-            "steamid": "76561199121905554",
-            "input": "Steering Wheel",
-            "combo": "37657.0",
-            "avg_speed": "195",
-            "run_time": "00:25:00",
-            "run_distance": "81.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "45.88.229.84:13349",
-            "map": "No Hesi 110",
-            "lives_left": 1,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1309,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/f91d06b61869b40176aafad4924e62dcd3a1ca8f.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/f91d06b61869b40176aafad4924e62dcd3a1ca8f_full.jpg",
-            "personaname": "Pekora",
-            "label": "No Hesi",
-            "website_name": "pekora",
-            "server_title": "Heavy Traffic I JDM Cars 110"
-        },
-        {
-            "score": 13413713835,
-            "steamid": "76561198150228579",
-            "input": "Controller",
-            "combo": "37325.0",
-            "avg_speed": "202",
-            "run_time": "00:25:00",
-            "run_distance": "84.0",
-            "car_model": "mazda rx7 fc vlct",
-            "server": "45.88.229.84:13350",
-            "map": "No Hesi 110",
-            "lives_left": 1,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1140,
-            "traffic_type": null,
-            "avatar": "https://avatars.steamstatic.com/fdd2851dcf6dfeeb37a58b49029397dee459c5b8.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/fdd2851dcf6dfeeb37a58b49029397dee459c5b8_full.jpg",
-            "personaname": "Skaii",
-            "label": "No Hesi",
-            "website_name": "skaii",
-            "server_title": null
-        },
-        {
-            "score": 13394530770,
-            "steamid": "76561199226171843",
-            "input": "Controller",
-            "combo": "35883.0",
-            "avg_speed": "195",
-            "run_time": "00:25:00",
-            "run_distance": "81.0",
-            "car_model": "toyota gr yaris",
-            "server": "45.88.230.80:13052",
-            "map": "No Hesi 110",
-            "lives_left": 2,
-            "team": {
-                "members": [
-                    {
-                        "name": "1ucafrate",
-                        "steamId": "76561199226171843",
-                        "website_name": "skibidiluca1",
-                        "avatar_url": "https://cdn.discordapp.com/avatars/1017551482805035090/7d503f7bbf1634229daa51a71d0c0909"
-                    }
-                ]
-            },
-            "prox_time": 1499,
-            "prox_combo": 1,
-            "cars_passed": 1329,
-            "traffic_type": "None",
-            "avatar": "https://avatars.steamstatic.com/1ee788b2931c529e058f3b6fd978f57539f6f075.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/1ee788b2931c529e058f3b6fd978f57539f6f075_full.jpg",
-            "personaname": "Fentanyl Enjoyer",
-            "label": "No Hesi",
-            "website_name": "skibidiluca1",
-            "server_title": "110 I Certified"
-        },
-        {
-            "score": 13390408386,
-            "steamid": "76561198358733551",
-            "input": "Controller",
-            "combo": "35966.0",
-            "avg_speed": "194",
-            "run_time": "00:25:00",
-            "run_distance": "81.0",
-            "car_model": "subaru wrx sti gd kz",
-            "server": "103.73.65.155:13337",
-            "map": "No Hesi 110",
-            "lives_left": 2,
-            "team": {
-                "members": []
-            },
-            "prox_time": 0,
-            "prox_combo": 1,
-            "cars_passed": 1238,
-            "traffic_type": "Heavy",
-            "avatar": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb.jpg",
-            "avatarfull": "https://avatars.steamstatic.com/fef49e7fa7e1997310d705b2a6158ff8dc1cdfeb_full.jpg",
-            "personaname": "rbedd",
-            "label": "No Hesi",
-            "website_name": "rbedd",
             "server_title": "Heavy Traffic I JDM Cars 110"
         }
     ]
